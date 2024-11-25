@@ -18,7 +18,7 @@ A user-friendly mobile application designed to help users to book tours and expl
 [Eldroid Repo](https://github.com/LerraMayDauba/ELDROID_CEBU-ADVENTURE_730FRI)
 
 ## PHP Repo Link
-[PHP Repo](https://github.com/keanulaw/PHP_CEBU-ADVENTURE_730FRI)
+[PHP Repo](https://github.com/Jemzkie/PHP_CEBUADVENTURE_SAT730)
 
 ## Documentation
 [CEBU ADVENTURE Documentation](https://docs.google.com/document/d/16XHVu9nXmf7HR8WIw9QFyVXiCjpYHEsNIz10WJAt5rQ/edit?tab=t.0)
